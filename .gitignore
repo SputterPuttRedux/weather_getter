@@ -1,6 +1,7 @@
 *.weather_getter_logger.rb
 *.weather_to_bash.rb
 *.scratch.txt
+log
 .DS_Store
 .DS_Store?
 ._*
