@@ -1,0 +1,3 @@
+./models/weather_getter_logger.rb
+./models/weather_to_bash.rb
+./log/*
